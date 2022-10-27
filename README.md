@@ -1,1 +1,1 @@
-# Partner-management-portall
+# Partner-management-portal
